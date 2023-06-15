@@ -1,0 +1,10 @@
+.button_details {
+  background-color: rgba(23, 216, 230, 0.74);
+  cursor: pointer;
+  padding: 10px;
+  margin-left: 50px;
+  transition: 0.2s;
+  &:hover {
+    background-color: rgba(10, 110, 117, 0.74);
+  }
+}

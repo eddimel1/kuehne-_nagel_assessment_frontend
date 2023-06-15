@@ -1,0 +1,10 @@
+.cell {
+  display: flex;
+  flex-direction: column;
+  gap:0.5rem;
+}
+
+.value {
+    padding: 1rem;
+    background-color: rgba(23, 216, 230, 0.74);
+}

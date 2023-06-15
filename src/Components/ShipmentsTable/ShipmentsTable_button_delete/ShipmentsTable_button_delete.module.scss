@@ -1,0 +1,11 @@
+.button_delete {
+    background-color: rgb(241, 57, 10);
+    cursor:pointer;
+    padding:10px;
+    margin-left:10px;
+    transition: 0.2s;
+    &:hover{
+        background-color: rgb(95, 13, 3);
+
+    }
+}

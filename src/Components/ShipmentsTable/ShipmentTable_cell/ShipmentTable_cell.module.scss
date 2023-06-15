@@ -1,0 +1,20 @@
+.cell {
+  text-align: left;
+  border: 1px solid #ddd;
+  padding: clamp(10px, 2vw, 20px);
+
+  &:hover {
+    background-color: azure;
+  }
+}
+
+.inputAndDone {
+  display: flex;
+  margin-left: 0.3rem;
+}
+.icon {
+  &:hover {
+    color: green;
+    cursor: pointer;
+  }
+}
